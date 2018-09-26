@@ -1,0 +1,9 @@
+NOP
+CLR        
+ADD 15 
+NOP
+OUTPUT     
+SUB 3     
+BNZ 4   
+NOP NOP NOP NOP
+HALT        
